@@ -1,4 +1,4 @@
-# libft
+# libft + Bonus
 Libft is one of the 1337's project ... the concept is to rebuild some of predefined functions in C and build some others 
 those functions will be really useful in the upcoming projects that will be your own library that you are allowed to use it whenever you need it .
 
